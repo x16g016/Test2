@@ -5,6 +5,7 @@ public class summer {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("summer");
 		System.out.println("autumn");
+		System.out.println("ふゆ");
 
 	}
 
